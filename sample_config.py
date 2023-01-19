@@ -25,7 +25,7 @@
 class Config(object):
 
     # get a token from @BotFather
-    BOT_TOKEN = ""
+    BOT_TOKEN = "5745311176:AAGZJqwVmOSEf_f-uJkKVFmc6pcjeE0LmYk"
 
     # Get these values from my.telegram.org
     API_ID = 1234567
@@ -40,11 +40,11 @@ class Config(object):
     PROCESS_MAX_TIMEOUT = 3700
 
     # TG Ids
-    LOG_CHANNEL = -1007119867241
-    OWNER_ID = 1288398723
+    LOG_CHANNEL = -1001811613982
+    OWNER_ID = 5059280908
 
     # bot username without @
-    BOT_USERNAME = "AdvanceUrlUploaderBot"
+    BOT_USERNAME = "Savimusiceditbot"
 
     # auth users
     AUTH_USERS = [OWNER_ID]
