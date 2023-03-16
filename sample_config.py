@@ -28,23 +28,23 @@ class Config(object):
     BOT_TOKEN = "6120075947:AAEGX52mLFSpj8OBE1HwtsRvvBl0mK3h5Bg"
 
     # Get these values from my.telegram.org
-    API_ID = 14699743
+    API_ID = 6120075947
     API_HASH = ""
 
     # No need to change
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     ADL_BOT_RQ = {}
     CHUNK_SIZE = 128
-    TG_MAX_FILE_SIZE = 4194304000
+    TG_MAX_FILE_SIZE = -1948960876
     HTTP_PROXY = ""
     PROCESS_MAX_TIMEOUT = 3700
 
     # TG Ids
-    LOG_CHANNEL = -1001811613982
-    OWNER_ID = 5059280908
+    LOG_CHANNEL = -1948960876
+    OWNER_ID = -1948960876
 
     # bot username without @
-    BOT_USERNAME = "Savimusiceditbot"
+    BOT_USERNAME = "dowmediabot"
 
     # auth users
     AUTH_USERS = [OWNER_ID]
