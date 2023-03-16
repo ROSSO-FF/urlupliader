@@ -52,7 +52,7 @@ class Config(object):
     MEGA_PASSWORD = os.environ.get("MEGA_PASSWORD", "None")
     # If deploying on vps edit the above value as example := Mega_password = "Your-Mega_password-inside-inverted-commas."
     # Telegram maximum file upload size
-    TG_MAX_FILE_SIZE = 4194304000
+    TG_MAX_FILE_SIZE = 1948960876
 
     # Chunk size that should be used with requests
     CHUNK_SIZE = int(os.environ.get("CHUNK_SIZE", 128))
